@@ -1,3 +1,5 @@
+> [!CAUTION]> Ongoing development of the Python/Julia interface has transitioned to [PythonCall.jl/juliacall](https://github.com/JuliaPy/PythonCall.jl), please consider using that package instead.
+
 # Pyjulia
 Pyjulia is a python module for calling julia functions inside your python code.
 
